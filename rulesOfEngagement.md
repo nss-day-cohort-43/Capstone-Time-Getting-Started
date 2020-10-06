@@ -6,7 +6,7 @@
 * You will have a project mentor.
 * The instruction team is available for all technical questions.
 * Daily Standups with mentoring group.
-* One-on-Ones will start tomorrow.
+* One-on-Ones will start as we receive proposals.
 
 
 ## Before asking for help, answer these 5 questions.
@@ -17,7 +17,7 @@
 1. Do you have any errors?
 
 
-## Friday August 7 - Soft Demos of MVP
+## Friday October 30 - Soft Demos of MVP
 
-## Tuesday August 18 - DEMO TIME.
+## Tuesday November 10 - DEMO TIME.
 [Presentation Details](capstone-presentation.md)

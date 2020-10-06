@@ -2,15 +2,15 @@
 ## Contact Info 
 * Name
 * Email Address: 
-* Github (Repo or Your Account): 
+* Project Github Repo 
 
-## Pre Approval - get a 👍
+## Idea 👍
 Name of Project: RunDiary
 
-Brief Proposal: (The problem you are trying to solve and how you plan to solve it ) 
+Idea: (The problem you are trying to solve and how you plan to solve it ) 
 `An app to track training runs and races. Entries can contain diary-style information and will be displayed to users in a calendar format.`
 
-## Final Proposal (After you get the 👍 on your pre proposal)
+## Proposal (After you get the 👍 on your idea)
 
 Overview of app: 
 `An app to track training runs and races. Entries can contain diary-style information and will be displayed to users in a calendar format.`
@@ -38,7 +38,7 @@ Overview of app:
 * ERD - also include with your README.md
 * Wireframes - photo or links. Also include with your README.md
 * Link to Repo with tickets
-* Plan/outline the components your project will need showing the data relationship (props and state). This may be included with your wireframes. Add to your README.md.
+* Plan/outline the components your project will need showing the data relationship (props and state). This may be included with your wireframes and added to your README.md.
 
 ## Research Planning Links or Documents 
 Start on it before one-on-one but doesn’t have to be fully fleshed out

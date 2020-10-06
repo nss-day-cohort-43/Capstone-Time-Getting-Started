@@ -9,7 +9,7 @@
 
 ## Proposal
 * Use Google Docs and provide a link to the instruction team. **Check out this >>** [Example.md](Example.md)
-* Capstone Final Proposals DUE (EOD) - **July 23, 2020**
+* Capstone Final Proposals DUE (EOD) - **October 15, 2020** (Sooner is better!)
 
 * Project Overview
    * Consider:
@@ -43,7 +43,9 @@
 * Looking for inspirational API's: https://github.com/toddmotto/public-apis
 * Got some cross origin relationship problems? Review this repo: https://github.com/BlaiseRoberts/proxy-server
 
-## Presentation Day August 18, 2020
+## Soft Demo of MVP October 30, 2020
+
+## Presentation Day November, 10 2020
 [Get the details here!](capstone-presentation.md)
 
 Get ready... READ THIS: <a href="https://docs.google.com/document/d/1QNOeCBsw4tMSl-5xp1nF65Z8Ot0FqZBrJYXu_Nsa_Uc/edit?usp=sharing">Capstone Tips by Callan Morrison</a>

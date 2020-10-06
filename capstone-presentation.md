@@ -17,7 +17,7 @@ Each presentation should take approximately **5 minutes** and cover the followin
 * Be positive and use positive words. **DO NOT** emphasize broken parts of the program.  If you notice a bug while you're presenting, just gloss past it. This is an important skill to learn for giving product demos.
 * **DO NOT** insult your own work.  People tend to take a person's self-evaluation at face value and you'll simply be setting people up to think your work is sub-par.
 * Avoid referencing other student's presentations in a "well, they covered everything I had to say on my lessons learned".  Your presentation should stand alone.
-* Your presentation and application should be complete the evening before presentations. You are expected to have your laptop closed and your attention on the presenter during the presentations.
+* Your presentation and application should be complete the evening before presentations. Give your attention on the presenter during the presentations.
 
 
 ## <a href="https://docs.google.com/document/d/1QNOeCBsw4tMSl-5xp1nF65Z8Ot0FqZBrJYXu_Nsa_Uc/edit?usp=sharing">Great read: Capstone Tips by Callan Morrison</a>
